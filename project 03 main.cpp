@@ -1,13 +1,4 @@
-/*
-Name : Md Ashikur Rahman 
-ID   : 20170919
-Frameworke : Framework for project 03 
-Projecert name : Calculator
-Date   :  15 October 2021
-Aouthor : MD ASHIKUR RAHMNA 
-Copyright : @mdashikurrahman 
-Description : A Framework that includes Menu and user choices
-*/
+
 #include <iostream>
 #include <string.h>
 #include <ctime>
